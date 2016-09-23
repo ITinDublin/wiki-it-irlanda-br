@@ -1,39 +1,32 @@
-Esta wiki está em fase de desenvolvimento
+# [Wiki](https://github.com/ITinDublin/wiki-it-irlanda-br)
 
-Utilize estes links para navegar:
+Wiki da comunidade Brasileira de TI na Irlanda
 
-Todas as páginas
+## Sumario
 
-Categorias
+- [Sobre](#sobre)
+- [Ajuda](#ajuda)
+- [Contribuiçoes ](#contribuicoes)
+- [Contribuidores](#contribuidores)
+- [wiki](https://github.com/ITinDublin/wiki-it-irlanda-br/blob/master/index/README.md)
 
-Arquivos
 
-Páginas especiais
+## Sobre
 
-Seja bem-vindo à wiki da comunidade brasileira de profissionais de IT na Irlanda. Esta é uma iniciativa coletiva com o intuito de compartilhar conhecimento e experiências sobre a área e o mercado. Se você trabalha (ou já trabalhou) com TI na Irlanda, provavelmente tem algo a acrescentar.
 
-Editores são encorajados a compartilhar conteúdo especialmente nos seguintes assuntos:
+## Contribuiçoes, gostaria de contribuir?
 
-Review de empresas
+Veja como e Facil
 
-Áreas de atuação
+Nao possui conhecimento em desenvolvimento? ou github? sem problema apenas crie um issue clique no link e contribua [issue](https://github.com/ITinDublin/wiki-it-irlanda-br/issues/new?title=New%20Request:)
 
-Eventos recorrentes (eventos esporádicos podem ser divulgados no site de capa)
+voce pode adicionar fontes, imagens arquivo o que desejar.
 
-Busca por emprego
 
-Visto de trabalho
 
-Documentação
+## Contribuidores
 
-Abertura e regras para Start-ups
+**Douglas Deodato**
 
-E quaisquer outros temas que costumam gerar dúvidas.
-
-Para entrar em contato com outros colaboradores, visite o canal #it-irlanda-br no irc.freenode.net.
-
-google forum: https://groups.google.com/forum/#!forum/it-irlanda-br
-
-facebook page:
-
-[ HANGOUTS DO GRUPO ] : https://groups.google.com/forum/#!topic/it-irlanda-br/ymeQMyZhefM
+- <http://douglasdeodato.com>
+- <https://github.com/douglasdeodato>
